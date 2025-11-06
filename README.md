@@ -1,7 +1,7 @@
 # Course-Notes-UWaterloo
 Typeset notes for lectures I've attended at the University of Waterloo
 
-Inc. = Incomplete and therefore unuploaded
+Inc. = Incomplete
 
 PHYS 234: Quantum Physics I (Inc.)
 
