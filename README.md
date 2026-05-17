@@ -3,6 +3,7 @@ Typeset notes for lectures I've attended at the University of Waterloo
 
 DNF = Did not finish.
 IP = In progress.
+WT = Work Term
 
 Physics Courses
 ===========================================
@@ -13,6 +14,8 @@ PHYS 358: Thermal Physics (DNF)
 PHYS 363: Intermediate Classical Mechanics
 
 PHYS 475: Cosmology (DNF)
+
+PHY 699 (WT2): Special Topics in Theoretical Physics (DNF)
 
 AMATH Courses
 ===========================================
